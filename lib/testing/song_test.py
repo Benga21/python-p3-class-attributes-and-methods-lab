@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from song import Song
+from lib. song import Song
 
 Song.count = 0
 Song.genre_count = {}
